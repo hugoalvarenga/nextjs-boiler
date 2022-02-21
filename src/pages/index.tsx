@@ -1,10 +1,9 @@
 export default function Home() {
-  const bla = 'a';
-  const bla = 'a';
-
   return (
     <>
-      <div className="alo"></div>
+      <div className="alo">
+        <h1>alo</h1>
+      </div>
     </>
   );
 }
