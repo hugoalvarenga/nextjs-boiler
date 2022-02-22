@@ -12,7 +12,9 @@ function App({ Component, pageProps }: AppProps) {
 
         <link rel="shortcut icon" href="" />
         <link rel="apple-touch-icon" href="" />
+        <link rel="manifest" href="/manifest.jsonc" />
 
+        <meta name="theme-color" content="#000" />
         <meta name="description" content="" />
       </Head>
       <GlobalStyles />
